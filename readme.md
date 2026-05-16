@@ -27,8 +27,8 @@ $$S = min(\left( \frac{HW_1 + HW_2}{2} + \frac{HW_{\text{bonus}}}{2} \right), 10
 <big><pre>
     1.  [Домашнее задание 1](./hometasks/hometask_1.ipynb)
     2.  [Домашнее задание 2](./hometasks/hometask_2_baselines.ipynb)
-    3.  [Домашнее задание 3](./hometasks/hometask_3.ipynb)
-    4.  [Домашнее задание 4 (бонусное)](./hometasks/hometask_4_bonus.ipynb)
+    3.  [Домашнее задание 3 (бонусное)](./hometasks/hometask_3.ipynb)
+
 </pre></big>
 
 ## Дополнительные материалы
